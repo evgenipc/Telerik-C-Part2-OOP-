@@ -1,0 +1,6 @@
+c:\users\evgeni\documents\visual studio 2013\Projects\Exeption handling\03.Zadacha\bin\Debug\03.Zadacha.exe.config
+c:\users\evgeni\documents\visual studio 2013\Projects\Exeption handling\03.Zadacha\bin\Debug\03.Zadacha.exe
+c:\users\evgeni\documents\visual studio 2013\Projects\Exeption handling\03.Zadacha\bin\Debug\03.Zadacha.pdb
+c:\users\evgeni\documents\visual studio 2013\Projects\Exeption handling\03.Zadacha\obj\Debug\03.Zadacha.exe
+c:\users\evgeni\documents\visual studio 2013\Projects\Exeption handling\03.Zadacha\obj\Debug\03.Zadacha.pdb
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\03.Zadacha\obj\Debug\03.Zadacha.csprojResolveAssemblyReference.cache

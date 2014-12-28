@@ -1,0 +1,5 @@
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\01.pro\bin\Debug\01.pro.exe.config
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\01.pro\obj\Debug\01.pro.exe
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\01.pro\obj\Debug\01.pro.pdb
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\01.pro\bin\Debug\01.pro.exe
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\01.pro\bin\Debug\01.pro.pdb

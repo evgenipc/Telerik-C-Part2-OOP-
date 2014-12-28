@@ -1,0 +1,3 @@
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\04.Zadacha\bin\Debug\04.Zadacha.exe.config
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\04.Zadacha\obj\Debug\04.Zadacha.exe
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Exeption handling\04.Zadacha\obj\Debug\04.Zadacha.pdb
