@@ -1,0 +1,6 @@
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\02.Generics\bin\Debug\02.Generics.exe.config
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\02.Generics\bin\Debug\02.Generics.exe
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\02.Generics\bin\Debug\02.Generics.pdb
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\02.Generics\obj\Debug\02.Generics.exe
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\02.Generics\obj\Debug\02.Generics.pdb
+C:\Users\Evgeni\documents\visual studio 2013\Projects\Defining classes Part2\02.Generics\obj\Debug\02.Generics.csprojResolveAssemblyReference.cache

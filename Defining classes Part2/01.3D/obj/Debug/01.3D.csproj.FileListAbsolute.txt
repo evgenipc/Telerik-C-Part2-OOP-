@@ -1,0 +1,5 @@
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\01.3D\bin\Debug\01.3D.exe.config
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\01.3D\bin\Debug\01.3D.exe
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\01.3D\bin\Debug\01.3D.pdb
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\01.3D\obj\Debug\01.3D.exe
+c:\users\evgeni\documents\visual studio 2013\Projects\Defining classes Part2\01.3D\obj\Debug\01.3D.pdb
